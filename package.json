@@ -1,0 +1,11 @@
+{
+	"name": "dsss_bot",
+	"version": "1.0.0",
+	"description": "Did somebody say sex??!?!?!?!",
+	"main": "bot.js",
+	"author": "Nisha Devasia",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.2.1"
+	}
+}
